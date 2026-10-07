@@ -1,0 +1,10 @@
+# Unity auto-generated cache & temp folders
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Ll]ogs/
+**/.vs/
+.DS_Store
+hs_err_pid*.log
